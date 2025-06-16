@@ -1,0 +1,9 @@
+cmd 
+
+ 
+env\Scripts\activate
+
+py app.py
+
+
+these are some commands that need to run the project
